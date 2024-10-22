@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design_desk2.webp";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: " Building a Real-Time Virtual Calculator🎉",
+    description: "Developed a user-friendly command-line interface that accepts input expressions and evaluatesthem using advanced mathematical functions and operators.",
+    url: "https://shash319.github.io/The-Virtual-Calculator/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Desiging Greating Card App 🎀",
+    description: "Build a Greating card app that used to create Memorable cards.Utilized the deleting property and timer feature to delete the existing cards.Designed the system to create unlimited cards and delete them in a single click",
+    url: "https://shash319.github.io/Greeting-App/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Heliverse Backend Interaction 💡",
+    description: "Implementing the pagination property and each page containing 20 items. We utilizing Backend algorithms to fetch items and display in client-side.",
+    url: "https://shash319.github.io/Haliverse_Shasawatpal/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Landing page of AMAZON website 📐 ",
+    description:"this is cloning of Amazon landing-page that specifies the user-friendly design. It containing all the major components for a Amazon website requires like Search-bar, carousel, item templets, footer section , etc.",
+    url: "https://shash319.github.io/Amazon_SimpleC/",
   },
 ];
 
