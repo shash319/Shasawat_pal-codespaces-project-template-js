@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Shasawat Pal",
-  title: "Web Designer & Content Creator",
+  title: "Web Developer & Content Creator",
   email: "shashwatpal2001@gmail.com",
   gitHub: "https://github.com/shash319",
   linkedIn: "https://www.linkedin.com/in/shasawat-pal-9506781a9/",
